@@ -1,0 +1,13 @@
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\bin\Debug\netcoreapp3.1\Interface_1.exe
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\bin\Debug\netcoreapp3.1\Interface_1.deps.json
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\bin\Debug\netcoreapp3.1\Interface_1.runtimeconfig.json
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\bin\Debug\netcoreapp3.1\Interface_1.runtimeconfig.dev.json
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\bin\Debug\netcoreapp3.1\Interface_1.dll
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\bin\Debug\netcoreapp3.1\Interface_1.pdb
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\obj\Debug\netcoreapp3.1\Interface_1.csprojAssemblyReference.cache
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\obj\Debug\netcoreapp3.1\Interface_1.AssemblyInfoInputs.cache
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\obj\Debug\netcoreapp3.1\Interface_1.AssemblyInfo.cs
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\obj\Debug\netcoreapp3.1\Interface_1.csproj.CoreCompileInputs.cache
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\obj\Debug\netcoreapp3.1\Interface_1.dll
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\obj\Debug\netcoreapp3.1\Interface_1.pdb
+H:\Aiub files\C#\Final Lab Task 2\Interface_1\obj\Debug\netcoreapp3.1\Interface_1.genruntimeconfig.cache
